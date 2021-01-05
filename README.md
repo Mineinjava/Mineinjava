@@ -1,3 +1,5 @@
+![image1](https://cdn.discordapp.com/emojis/525797575345963029.gif?v=1)![image2](https://cdn.discordapp.com/emojis/525797592005869579.gif?v=1)
+
 ### Hi there 👋
 #### I am a person. That's all you need to know.
 ##### There are more interesting things to do then look at my profile
