@@ -1,6 +1,8 @@
 ![image1](https://cdn.discordapp.com/emojis/525797575345963029.gif?v=1)![image2](https://cdn.discordapp.com/emojis/525797592005869579.gif?v=1)
 
 ### Hi there 👋
+[![my uploading site](http://git.minein.me/badges/i?id=710601860511301724)](http://git.minein.me)
+
 I make websites, APIs, and bots.
 
 I am currently working on an asynchronous [Discord Api Wrapper](http://github.com/mineinjava/discord-splash) 
