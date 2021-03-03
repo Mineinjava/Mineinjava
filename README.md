@@ -9,8 +9,13 @@ I am currently working on an asynchronous [Discord Api Wrapper](http://github.co
 
 I am currently working on a system to integrrate GitHub and Discord.
 
-[My website.](http://minein.me)
-[My image uploading site](http://i.minein.me)
+--
+## My Websites:
+
+ - [My website.](http://minein.me)
+ - [My image uploading site](http://i.minein.me)
+ - [PresenceBadges](http://git.minein.me)
+
 
 
 ---
