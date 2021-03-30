@@ -24,7 +24,9 @@ I am currently working on a system to integrrate GitHub and Discord.
 
 #### Programming Languages:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> 
-<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"/>
+<img align="left" alt="C#" width="26px" src="https://miro.medium.com/max/3954/1*w0u2TZpEp3WfKMrlL5jTSw.png"/>
+<img align="left" alt="Java" width="26px" src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp"/>
+
 </br>
 
 
