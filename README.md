@@ -32,9 +32,10 @@ I am currently working on a system to integrrate GitHub and Discord.
 
 #### Tools:
 
-<img align="left" alt="unity" width="26px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" />
+<img align="left" alt="Pycharm" width="26px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" />
 <img align="left" alt="unity" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" />
 <img align="left" alt="VScode" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
+<img align="left" alt="InteliJ" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
 
 <!--
 **Mineinjava/Mineinjava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
