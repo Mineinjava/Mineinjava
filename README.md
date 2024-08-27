@@ -4,6 +4,9 @@ Currently working on quail.
 
 Participant in FRC.
 
+I have a metal lathe.
+
+
 
 
 [![An image of @mineinjava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mineinjava)](https://holopin.io/@mineinjava)
