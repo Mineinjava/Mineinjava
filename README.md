@@ -6,7 +6,7 @@ My Website: https://kauffman.tools
 - Machine Learning Paper: https://github.com/Rexicon226/Synthetic-Navigation
 
 ### Works in progress:
-- Huygens-Fresnel principle based diffraction simulator (Python, Zig, CUDA WIP): https://github.com/Mineinjava/wv_opt_sim
+- Huygens-Fresnel principle based diffraction simulator (Python, Zig complete; CUDA WIP): https://github.com/Mineinjava/wv_opt_sim
 - Small RTOS for RISC-V32I: https://github.com/Mineinjava/mini-os
 
 ### Non-Code:
